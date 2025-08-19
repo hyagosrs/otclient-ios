@@ -1,10 +1,3 @@
-//
-//  OTClient_iOSApp.swift
-//  OTClient_iOS
-//
-//  Created by Momo on 18/08/25.
-//
-
 import SwiftUI
 
 @main
